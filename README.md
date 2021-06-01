@@ -2,7 +2,7 @@
 	
 
 
-## Welcome to my Portfolio
+## Welcome to my Portfolio 📁
 
 - 📝 I’m currently working on building projects, expanding my skillset, and learning new tools (up next: Python!)
 - 💡 *Languages/Tools:* MySQL, Microsoft SQL Server(Transact SQL), R, Excel, MS Office, Google Analytics
