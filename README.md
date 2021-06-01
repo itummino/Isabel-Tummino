@@ -1,4 +1,4 @@
-# Hello! 👋
+## Hello! 👋
 ![](/images/Linkedin1.jpg) ![](/images/data.jpg)
 
 ## Welcome to my Portfolio 
