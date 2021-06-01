@@ -11,4 +11,4 @@
 - 👯 Fun fact: I studied international economics in Italy for a semester!
 - 📫 How to reach me: [Connect with me on LinkedIn!](https://www.linkedin.com/in/isabel-tummino)
 
-# Here is a look into my current projects:
+# [Here is a look into my current projects:](https://itummino.github.io/PortfolioProjects/)
