@@ -1,7 +1,7 @@
 ## Hello! 👋
 ![](/images/Linkedin1.jpg)  
 
-### Welcome to my Portfolio! 
+### Welcome to my Portfolio ~ 
 
 - 🔭 I’m currently working on building projects for my portfolio and learning new tools (up next: Python!)
 - 🌱 Languages/Tools: MySQL, Microsoft SQL Server(Transact SQL), R, Excel, MS Office 
