@@ -10,4 +10,4 @@
 - 📫 How to reach me: [Connect with me on LinkedIn!](https://www.linkedin.com/in/isabel-tummino)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I studied in Italy for a semester!
--->
+
