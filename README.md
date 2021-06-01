@@ -1,5 +1,5 @@
 ## Isabel Tummino 👋
-![](https://github.com/itummino/Isabel-Tummino/blob/main/Linkedin1.jpg)  
+![](/images/Linkedin1.jpg)  
 
 ### Welcome to my Portfolio! 
 
