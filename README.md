@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## Welcome to my Portfolio! 
+### Welcome to my Portfolio! 
 
 - 🔭 I’m currently working on building projects for my portfolio
 - 🌱 I’m currently learning SQL,  R, Tableau, Looker
